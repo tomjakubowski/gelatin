@@ -1,6 +1,6 @@
 # gelatin
 
-libPlasma bindings/implementation for Node.js.  Work in progress.
+[libPlasma](https://github.com/Oblong/plasma) bindings/implementation for Node.js.  Work in progress.
 
 [![npm version](https://badge.fury.io/js/gelatin.svg)](https://badge.fury.io/js/gelatin)
 
